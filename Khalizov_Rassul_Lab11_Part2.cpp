@@ -29,7 +29,7 @@ for (int i = 0; i < ARRAY_SIZE; i++) {
         countEqual100++; 
         } 
     } 
-cout << "The number of elements exactly equal to 100 is: " << countEqual100 << std::endl; 
+cout << "The number of elements exactly equal to 100 is: " << countEqual100 << endl; 
 /*
 The average of the elements is: 52.5
 The number of elements exactly equal to 100 is: 3
